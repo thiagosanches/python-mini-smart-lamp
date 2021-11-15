@@ -1,7 +1,7 @@
 # python-mini-smart-lamp
 
 ## Example
-
+See in action [here](https://raw.githubusercontent.com/thiagosanches/python-mini-smart-lamp/main/example.mp4).
 
 ![image](https://user-images.githubusercontent.com/5191469/141774586-024168de-979d-4a58-beca-40b14665f644.png)
 
