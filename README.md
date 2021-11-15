@@ -16,7 +16,7 @@ See in action [here](https://raw.githubusercontent.com/thiagosanches/python-mini
 - Addressable LED (WS2811 type).
 
 ## Software
-- [arduino-mini-smart-lamp.ino](arduino-mini-smart-lamp.ino)
+- [arduino-mini-smart-lamp.ino](arduino-mini-smart-lamp.ino), it uses the [FastLED](https://github.com/thiagosanches/FastLED) library, you have to install it on your Arduino IDE.
 - [python-mini-smart-lamp.py](python-mini-smart-lamp.py)
 
 ## Installation
